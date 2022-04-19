@@ -2,7 +2,7 @@
 using APICliente.Repositories;
 using System.Collections.Generic;
 
-namespace apiCadastroClientes.Service
+namespace APICliente.Service
 {
     public class ClienteService
     {
